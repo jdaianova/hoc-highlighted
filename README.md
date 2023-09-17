@@ -1,3 +1,3 @@
-jdaianova.github.io/hoc-highlight
+https://jdaianova.github.io/hoc-highlighted/
 
 Подсвечивание блоков
